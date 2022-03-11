@@ -54,7 +54,7 @@ git clone https://github.com/kurtispykes/Machine-Learning.git
 * [Getting Started with Feature Selection](https://towardsdatascience.com/getting-started-with-feature-selection-3ecfb4957fd4): [See Full Code](feature_selection/feature_selection_beginner.ipynb)
 
 ### Data Visualization
-* [Effective Data Visualization](https://towardsdatascience.com/effective-data-visualization-ef30ae560961): [See Full Code](data_visualization/
+* [Effective Data Visualization](https://towardsdatascience.com/effective-data-visualization-ef30ae560961): [See Full Code](data_visualization/data_visualization.ipynb)
 
 ### MLOps
 * [A Simple Explaination of MLOps](https://towardsdatascience.com/a-simple-explanation-of-mlops-e47009e245f7)
