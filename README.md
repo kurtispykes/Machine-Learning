@@ -62,6 +62,8 @@ git clone https://github.com/kurtispykes/Machine-Learning.git
 * [Machine Learning Model Deployment](https://medium.datadriveninvestor.com/machine-learning-model-deployment-b1eaf7ca96cd)
 * [Introducing CI/CD Pipelines To Your Machine Learning Project](https://medium.com/pykes-technical-notes/introducing-ci-cd-pipelines-to-your-machine-learning-project-aa610dbeea2f?source=rss------programming-5)
 * [7 Benefits of CI/CD Pipelines](https://medium.com/pykes-technical-notes/7-benefits-of-ci-cd-pipelines-22f807e81266)
+* [Make Tracking Your Machine Learning Experiments Easy](https://heartbeat.comet.ml/make-tracking-your-machine-learning-experiments-easy-afad9b9956a)
+* [Tracking Artifacts With Comet ML](https://heartbeat.comet.ml/tracking-artifacts-with-comet-ml-66897c73a856)
 
 ### Evaluation Metrics
 * [Cohen's Kappa](https://towardsdatascience.com/cohens-kappa-9786ceceab58)
